@@ -54,7 +54,7 @@ PolicyMamba introduces a **novel spatial–spectral state space model** designed
 
 ## 📂 Dataset Structure
 
-Supported public datasets:
+Public datasets:
 - [University of Houston](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 - Pavia University
 - Salinas
@@ -71,20 +71,6 @@ Datasets/
 │   └── PU_gt.mat
 ...
 ```
-
----
-
-## 🛠️ Getting Started
-
-```bash
-git clone https://github.com/yourusername/PolicyMamba.git
-cd PolicyMamba
-pip install -r requirements.txt
-python train.py --dataset "Pavia University"
-```
-
-- Trains on disjoint splits by default
-- Set flags for training ratio, patch size, and sparsity level
 
 ---
 
