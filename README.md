@@ -1,6 +1,6 @@
 # 🚀 PolicyMamba: Localized Policy Attention with State Space Model for Land Cover Classification
 
-[![IEEE TNNLS 2025](https://img.shields.io/badge/published-TNNLS--2025-blue.svg)](https://ieeexplore.ieee.org/document/11090003)
+[IEEE TNNLS 2025](https://img.shields.io/badge/published-TNNLS--2025-blue.svg)(https://ieeexplore.ieee.org/document/11090003)
 
 PolicyMamba introduces a **novel spatial–spectral state space model** designed for **hyperspectral image (HSI)** classification. It tackles the limitations of traditional self-attention models by leveraging **localized policy attention**, **sparsity constraints**, and a **hierarchical aggregation strategy** offering an efficient, scalable, and accurate solution for Land Cover Classification (LCC).
 
