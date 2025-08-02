@@ -14,6 +14,7 @@ PolicyMamba introduces a **novel spatial–spectral state space model** designed
 ### 🌈 Architecture Summary
 ![PolicyMamba Overview](https://github.com/user-attachments/assets/79f22b23-9c81-4394-b36a-7140ddac6919)
 
+![Token Enhancement](https://github.com/user-attachments/assets/2a22713a-557a-4878-bd88-143b7513f497)
 - **Spectral–Spatial Tokenization** with attention gates
 - **Localized Policy Attention** with sparsity control
 - **State Space Transition** for long-range modeling
@@ -22,11 +23,11 @@ PolicyMamba introduces a **novel spatial–spectral state space model** designed
 ---
 
 ### 🧠 Token Enhancement Module
-![Token Enhancement](https://github.com/user-attachments/assets/2a22713a-557a-4878-bd88-143b7513f497)
+![Attention Comparison](https://github.com/user-attachments/assets/f2127b3e-f265-4049-9d71-f53d782b7ef3)
 
 ---
 
-### 🪟 Sliding Window vs Non-Window
+### 🪟 Sliding Window
 ![Sliding Window](https://github.com/user-attachments/assets/36e0b5c0-5d80-42be-9437-3455bb72bc88)
 
 ---
@@ -43,11 +44,6 @@ PolicyMamba introduces a **novel spatial–spectral state space model** designed
 ---
 
 ### 🔍 Comparison of Attention Mechanisms
-![Attention Comparison](https://github.com/user-attachments/assets/f2127b3e-f265-4049-9d71-f53d782b7ef3)
-
----
-
-### 🎯 Importance of Token Enhancement
 ![Token Enhancement Impact](https://github.com/user-attachments/assets/5f2b746c-cfe2-4c21-8327-998679ce5b44)
 
 ---
