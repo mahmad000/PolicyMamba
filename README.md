@@ -43,7 +43,7 @@ PolicyMamba introduces a **novel spatial–spectral state space model** designed
 
 ---
 
-### 🔍 Comparison of Attention Mechanisms
+### 🔍 Attention Mechanisms
 ![Token Enhancement Impact](https://github.com/user-attachments/assets/5f2b746c-cfe2-4c21-8327-998679ce5b44)
 
 ---
