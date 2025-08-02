@@ -1,26 +1,13 @@
-# PolicyMamba
-PolicyMamba: Localized Policy Attention with State Space Model for Land Cover Classification
-
-<img width="4225" height="1105" alt="LPA_Mamba" src="https://github.com/user-attachments/assets/79f22b23-9c81-4394-b36a-7140ddac6919" />
-
-<img width="1002" height="706" alt="image" src="https://github.com/user-attachments/assets/2a22713a-557a-4878-bd88-143b7513f497" />
-
 # 🚀 PolicyMamba: Localized Policy Attention with State Space Model for Land Cover Classification
 
 [![IEEE TNNLS 2025](https://img.shields.io/badge/published-TNNLS--2025-blue.svg)](https://ieeexplore.ieee.org/document/11090003)
 
 PolicyMamba introduces a **novel spatial–spectral state space model** designed for **hyperspectral image (HSI)** classification. It tackles the limitations of traditional self-attention models by leveraging **localized policy attention**, **sparsity constraints**, and a **hierarchical aggregation strategy** offering an efficient, scalable, and accurate solution for Land Cover Classification (LCC).
 
-<img width="2795" height="945" alt="Windowing" src="https://github.com/user-attachments/assets/36e0b5c0-5d80-42be-9437-3455bb72bc88" />
-
-<img width="648" height="442" alt="image" src="https://github.com/user-attachments/assets/f2127b3e-f265-4049-9d71-f53d782b7ef3" />
-
-<img width="650" height="642" alt="image" src="https://github.com/user-attachments/assets/5f2b746c-cfe2-4c21-8327-998679ce5b44" />
-
 > 🔎 **Note:** This repository provides a simplified and resource-friendly version of PolicyMamba. The reported results may slightly vary from the paper due to:
 > - Strict use of disjoint training, validation, and test splits.
 > - Exclusion of overlapping windowing for reduced computational cost.
-> - Compatibility with low-resource systems (no GPU required).
+> - Compatibility with low-resource systems.
 
 ## 📸 Model Overview
 
